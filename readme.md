@@ -34,7 +34,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Autor ✒️
 
-**TU NOMBRE**
+**ALEJANDRO JIMÉNEZ MURCIANO**
 
 - [Correo](alejimenezmurciano@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-jim%C3%A9nez-murciano-430090206/)
