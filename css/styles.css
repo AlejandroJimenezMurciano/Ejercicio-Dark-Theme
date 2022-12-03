@@ -211,3 +211,37 @@ body.dark {
 .testimonial__name {
   margin: 0;
 }
+
+.change-color {
+  background-color: #d3d3d3;
+  border-radius: 8px;
+  position: fixed;
+  top: 25vh;
+  right: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  z-index: 1;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.color {
+  width: 25px;
+  height: 25px;
+}
+
+.color--blue {
+  background-color: #339ecc;
+}
+
+.color--pink {
+  background-color: #f30fa7;
+}
+
+.color--green {
+  background-color: #33cc47;
+}
+
+.color--red {
+  background-color: #cc3354;
+}
